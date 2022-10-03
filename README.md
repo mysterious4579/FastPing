@@ -1,2 +1,3 @@
 # Fast Ping
 This program sends ICMP (ping) requests to a host, and displays the response in a fashion that mimics the Windows Command Prompt.
+Preview of program in action here: https://gyazo.com/51451b3f23af1e74e969938014d0df6e
